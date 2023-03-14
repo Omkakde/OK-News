@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OK-News/static/css/main.3020feb5.css",
+    "main.js": "/OK-News/static/js/main.db98b79b.js",
+    "static/js/787.9d0e285a.chunk.js": "/OK-News/static/js/787.9d0e285a.chunk.js",
+    "index.html": "/OK-News/index.html",
+    "main.3020feb5.css.map": "/OK-News/static/css/main.3020feb5.css.map",
+    "main.db98b79b.js.map": "/OK-News/static/js/main.db98b79b.js.map",
+    "787.9d0e285a.chunk.js.map": "/OK-News/static/js/787.9d0e285a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3020feb5.css",
+    "static/js/main.db98b79b.js"
+  ]
+}
